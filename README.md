@@ -37,5 +37,5 @@ This is a TODO List application that simplifies task management. Built using a c
 
 
 
-###Note: This project draws inspiration from @ancod3r's TODO list application, serving as a practical endeavor to gain proficiency in the fundamentals of React.js, Node.js, Express.js, GraphQL, MySQL, and Apollo Client. Its primary purpose is to provide a hands-on learning experience with React, allowing me to delve into the code independently. You can find the original repository by @ancod3r [[here](https://github.com/ancod3r/TodoList)]. 
+##Note: This project draws inspiration from @ancod3r's TODO list application, serving as a practical endeavor to gain proficiency in the fundamentals of React.js, Node.js, Express.js, GraphQL, MySQL, and Apollo Client. Its primary purpose is to provide a hands-on learning experience with React, allowing me to delve into the code independently. You can find the original repository by @ancod3r [[here](https://github.com/ancod3r/TodoList)]. 
 
